@@ -1,11 +1,3 @@
-"""
-============================================================================
-INTERFAZ GRÁFICA - MODELO PREDICTIVO CON RED NEURONAL
-Curso: Análisis Multivariado
-Descripción: Sube tu dataset y entrena automáticamente
-============================================================================
-"""
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 import pandas as pd
